@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CXuesong.MW.MwParserFromScratch" Version="0.3.0-int.6" />
+    <PackageReference Include="CXuesong.MW.WikiClientLibrary" Version="0.8.0-int.4" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="6.0.0-preview.7.21377.19" />
+  </ItemGroup>
+
+</Project>

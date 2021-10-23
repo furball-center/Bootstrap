@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SiteCopy": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
